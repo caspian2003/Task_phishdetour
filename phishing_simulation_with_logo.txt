@@ -1,0 +1,17 @@
+Dear User,
+
+We have detected suspicious activity on your account. To ensure the security of your information, we require you to reset your password immediately. Please click on the link below to verify your identity and update your password:
+
+Reset Password Now: http://malicious-redirect.com/reset
+
+Additionally, we noticed an attempt to access your banking details. Please confirm your banking information by following the link below:
+
+Verify Banking Details: http://malicious-redirect.com/verify
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Microsoft Security Team
+
+---------------------------------------------
+This is a phishing simulation email for cybersecurity training purposes only.
